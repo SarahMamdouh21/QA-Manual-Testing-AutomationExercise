@@ -24,10 +24,11 @@ Manual testing project for the AutomationExercise e-commerce website. Test cases
 - Test cycle organization
 - Test execution using Zephyr Test Player
 
-## Project Artifacts
-- Test cases exported from Zephyr
-- Test execution results (to be added separately if available)
-- Screenshots/evidence (to be added if available)
+## Test Summary
+- 11 test cases designed and executed in Jira with Zephyr Advanced
+- Execution result: 11/11 passed (100%)
+- No defects were reported during this test cycle
 
-## Notes
-The exported Zephyr file lists test case workflow status (e.g., Approved); this is not the same as execution status (Pass/Fail). Execution results are not included in this export and should be added only from the actual test cycle results.
+## Project Artifacts
+- [Test Cases and Expected Results](Test-Cases-and-Expected-Results.md)
+- [Test Execution Report](Test-Execution-Report.pdf)
